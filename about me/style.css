@@ -1,0 +1,27 @@
+/* Fuente de Google */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #333;
+    background-color: aquamarine;
+
+}
+
+/* Color de fondo para una sección */
+main {
+    background-color: #e49516;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Tamaño de la imagen personalizado */
+.img-custom {
+    width: 100%;
+    max-width: 250px;
+    height: auto;
+    border-radius: 50%; /* La hace circular */
+    border: 5px solid #089f428a;
+}
+.icon {
+    
+}
